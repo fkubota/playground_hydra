@@ -1,0 +1,7 @@
+db:
+  driver: postgresql
+  pass: secret
+  timeout: 1000
+  user: hello
+website:
+  domain: example.com

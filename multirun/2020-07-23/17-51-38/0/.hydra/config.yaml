@@ -1,0 +1,7 @@
+db:
+  driver: mysql
+  pass: secret
+  timeout: 10
+  user: omry
+website:
+  domain: example.com

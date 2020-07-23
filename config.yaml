@@ -1,5 +1,0 @@
-defaults:
-    - db: mysql
-
-website:
-    domain: example.com

@@ -1,5 +1,0 @@
-db:
-  driver: postgresql
-  pass: secret
-  user: hello
-  timeout: 1000

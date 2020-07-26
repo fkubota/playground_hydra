@@ -1,0 +1,4 @@
+cv: 
+  name_fold: 'k-fold'
+  params:
+    n_fold: 5

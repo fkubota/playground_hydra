@@ -1,3 +1,4 @@
 defaults:
     - model: svc
+    - cv: k_fold
 
